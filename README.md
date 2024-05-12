@@ -1,11 +1,11 @@
 Technology Which I Used
-*Backend*
 
+*Backend*
 1.Nodejs
 2.Mongodb
 3.Express
 
-Step to Start Project
+Steps to Start Project
 *First*
 
 1.Create an email on mongodb
@@ -14,6 +14,6 @@ Step to Start Project
 
 For Backend
 
-`npm i`
-`npm run data:import`
-`npm run dev`
+1.`npm i`
+2.`npm run data:import`
+3.`npm run dev`
