@@ -12,7 +12,7 @@ Steps to Start Project
 2.Create Cluster and Database on it
 3.Change on the db.js your url in line 5 with the new url appear in your cluster
 
-For Backend
+*For Backend*
 
 1.`npm i`
 2.`npm run data:import`
